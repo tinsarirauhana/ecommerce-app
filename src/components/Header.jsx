@@ -15,7 +15,7 @@ export default function Header() {
       alignItems: 'center',
     }}>
       <Link to='/' style={{ color: 'white', textDecoration: 'none' }}>
-        <h1 style={{ margin: 0, fontSize: '1.5rem' }}>CBSE Store</h1>
+        <h1 style={{ margin: 0, fontSize: '1.5rem' }}>Hana Store</h1>
       </Link>
       <nav style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}>
         <Link to='/' style={{ color: 'white', textDecoration: 'none' }}>Home</Link>
